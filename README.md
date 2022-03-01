@@ -4,7 +4,7 @@ Hola mi nombre es Jorge Luis Morales Huertas soy estudiante de primer año de in
 Landivar, campus quetzaltenango.
 
 ## Mis Hobbies
-*Ver Anime
+* Ver Anime
 * Dibujar
 * Cocinar
 * Escuchar música
